@@ -17,7 +17,7 @@
 
         $x=$x+1;
     }
-    //echo "hello";
+    //echo "helo";
     header("Location: purchase.html?entry=success");
 
 ?>
